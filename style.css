@@ -46,7 +46,7 @@ main {
 
 .content > p {
   margin: 0;
-  color: #f71c1c;
+  color: #691010;
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -190,8 +190,8 @@ nav h1 {
   padding: 16px 20px;
   font-size: 1.1rem;
   font-weight: 500;
-  background: #fff;
-  border: 1px solid #e0e0e0;
+  background: #460808;
+  border: 1px solid #530c0c;
   border-radius: 12px;
   transition: background 0.25s ease, color 0.25s ease, transform 0.25s ease;
 }
